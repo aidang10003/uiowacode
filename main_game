@@ -144,6 +144,5 @@ def word_game(word):
     return output
         
 a = generate(f'{choose_difficulty()}_letter.csv') #changes based on difficulty
-print(a)
 b = word_game(a)
 
