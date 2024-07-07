@@ -1,9 +1,12 @@
-# -*- coding: utf-8 -*-
 """
-Spyder Editor
+Last updated 7/7/2024
 
-This is a temporary script file.
+This function scrape Merriam Webster's online thesauras and enters the results in an Excel sheet.
+Run this function first.
+
+@author: Aidan
 """
+
 from bs4 import BeautifulSoup
 import requests 
 import time
