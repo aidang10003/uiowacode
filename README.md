@@ -3,7 +3,7 @@
 ## University of Iowa
 
 A word guessing game where you compete against the computer to guess a three, four, or five letter word before the computer.
-We made this game in 2020, but exxentially it's the same thing as Wordle.
+We made this game in 2020. Essentially it's a Wordle clone invented before Wordle.
 
 ## Running the code
 
